@@ -1,0 +1,26 @@
+/* Styles for clock container */
+.clock-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 800px;
+    margin: 0 auto;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+  }
+  
+  /* Styles for clock */
+  .clock {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  /* Styles for clock label */
+  .clock-label {
+    color: blue;
+    font-size: 40px;
+    font-weight: normal;
+  }
+  
